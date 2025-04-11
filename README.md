@@ -34,6 +34,9 @@ Sample dataset with fields like:
 ![KPI Cards](screenshots/ReportView.png)
 
 
+📌 “All data in this project is anonymized and provided for demonstration purposes only.”
+
+
 ## 👤 Author
 Padmini
 https://www.linkedin.com/in/padmini-s-209397307/
