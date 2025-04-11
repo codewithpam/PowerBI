@@ -25,6 +25,13 @@ Sample dataset with fields like:
 3. Explore the visuals — use slicers and filters to interact dynamically
 
 ## 📸 Screenshots
+## Screenshots
+
+### Main Dashboard
+![Dashboard Preview](screenshots/ModelView.png)
+
+### ReportView
+![KPI Cards](screenshots/ReportView.png)
 
 
 ## 👤 Author
